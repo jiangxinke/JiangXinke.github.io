@@ -6,7 +6,7 @@ excerpt: 'This is the paper about Spatial-Temporal Mining Problem by using Self-
 date: 2022-08-14
 venue: 'ACM SIGKDD Conference 2022'
 paperurl: 'https://doi.org/10.1145/3534678.3539422'
-citation: '@inproceedings{10.1145/3534678.3539422, author = {Li, Rongfan and Zhong, Ting and Jiang, Xinke and Trajcevski, Goce and Wu, Jin and Zhou, Fan}, title = {Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning}, year = {2022}, series = {KDD '22}}'
+citation: '@inproceedings{SPGCL,title = {Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning}, year = {2022}, series = {KDD '22}}'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
