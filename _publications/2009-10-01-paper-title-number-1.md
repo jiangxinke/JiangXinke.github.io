@@ -2,7 +2,7 @@
 title: "Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This is the paper about Spatial-Temporal Mining Problem by using Self-Paced Graph Contrastive Learning(SPGCL)'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-08-14
 venue: 'ACM SIGKDD Conference 2022'
 paperurl: 'https://doi.org/10.1145/3534678.3539422'
