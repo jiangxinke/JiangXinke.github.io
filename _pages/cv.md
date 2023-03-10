@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, University of Electronic Science and technology of China, 2019 - 2023
+* M.S. in Data Mining, Peking University, 2023 - Now
 
-Work experience
+Internship experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.11 - 2023.03: Research on Cross-Level Graph Contrastive Learning
+  * Spacetime Lab & CASA, University College London
+  * Research included: Spatial-Temporal Graph Mining, Cross-Level Graph Contrastive Learning, Heterogeneous Graph Learning.
+  * Supervisor: Professor James Haworth
+  * 
+* 2022.03 - 2022.10: Research on Attribute-Missing Graph Completion
+  * Institute of Computing Technology, Chinese Academy of Sciences
+  * Research included: Complete Attribute-Missing Graph, Decoupled Variational Auto-Encoder, Node Classification Task.
+  * Supervisor: Professor Ao Xiang
   
 Skills
 ======
@@ -47,13 +46,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
