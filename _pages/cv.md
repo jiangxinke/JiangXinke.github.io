@@ -14,7 +14,7 @@ Education
 * B.S. in Software Engineering, University of Electronic Science and technology of China, 2019 - 2023
 * M.S. in Data Mining, Peking University, 2023 - Now
 
-Internship experience
+Internship experiences
 ======
 * 2022.11 - 2023.03: Research on Cross-Level Graph Contrastive Learning
   * Spacetime Lab & CASA, University College London
@@ -56,14 +56,14 @@ Skills
 * Deep Learning Framework: Sklearn, Pytorch, Tensorflow, PaddlePaddle
 * Others: Reptile, Database, Android
 
-Curriculum
+Curriculums
 ======
-Total GPA: 3.98/4.0
-Rank: 1
-Average Score: 92.10
-Main Courses: Programming (100), Finance (99), Data Structure (98), Discrete Mathematics (97), Artificial Intelligence (96), Econometrics (96), Calculus (93), Probability and Statistics (93), Computer System Structure (95), Computer Network (95), Big Data (90)
+* Total GPA: 3.98/4.0
+* Rank: 1
+* Average Score: 92.10
+* Main Courses: Programming (100), Finance (99), Data Structure (98), Discrete Mathematics (97), Artificial Intelligence (96), Econometrics (96), Calculus (93), Probability and Statistics (93), Computer System Structure (95), Computer Network (95), Big Data (90)
 
-Prize
+Prizes
 ======
 * 2022 Big Bata Accounting Competition (TOP 5%, second prize)
 * Outstanding Graduates of Sichuan Province 
@@ -82,7 +82,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
