@@ -13,3 +13,5 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](files/KDD2022_Landslide.pdf)
 
 Recommended citation: Li, Zhong, Jiang et al. (2022). "Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning." In SIGKDD.
+
+![image](https://user-images.githubusercontent.com/3205641/224285113-c3be6c52-66f4-45e5-8f5f-54441a2cd35e.png)
