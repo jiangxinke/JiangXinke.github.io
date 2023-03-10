@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal page! My name is Xinke Jiang (蒋新科), a master student from the School of Computer Science, Peking University. My research interests are knowledge Graphs, graph neural network, and spatiotemporal data mining. 
+Welcome to my personal page! My name is Xinke Jiang (蒋新科), and I will be starting my master's degree in the School of Computer Science at Peking University. My research interests primarily lie in urban computing using knowledge graphs, graph neural networks, and spatiotemporal data mining, with a particular focus on urban anomalies and active travel modes. Other than from the structural data, I could also do the mining from video data and text. 
 
-My hometown is Mianyang, Sichuan, China. My undergraduate college is in the School of Information and Software Engineering of University of Electronic Science and Technology of China (UESTC) from 2019/09 - 2023/06. My master is studying in the School of Computer Science, Peking University from 2023/09 - .
+I am passionate about how to use data and algorithms to make our city greener and better!
 
-You can visit my personal blog is available at https://thinker-jiang.gitee.io/myblog/.
+I come from a small town in the southeast part of China, with Lucid waters and lush mountains as well as spicy food and hotpot. Then, I completed my undergraduate studies at the School of Information and Software Engineering at the University of Electronic Science and Technology of China (UESTC) from September 2019 to June 2023.
 
-You can see my resume and research in my website. For more information and cooperation, please contact my email：ThinkerJiang@foxmail.com.
+I am humbled and happy to share my ideas with researchers having similar interests. You can find my personal blog at https://thinker-jiang.gitee.io/myblog/ (sorry, only Chinese, but I will try to write more in English ).
 
 ------
