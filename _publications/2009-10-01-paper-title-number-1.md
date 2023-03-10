@@ -10,6 +10,6 @@ citation: 'Li, Zhong, Jiang et al. (2022). "Mining Spatio-Temporal Relations via
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://jiangxinke.github.io/files/KDD2022_Landslide.pdf)
 
 Recommended citation: Li, Zhong, Jiang et al. (2022). "Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning." In SIGKDD.
