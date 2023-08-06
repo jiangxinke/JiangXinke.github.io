@@ -3,7 +3,6 @@ title: "Uncertainty Quantification via Spatial-Temporal Tweedie Model for  Zero-
 Graph Neural Network(STZINB-GNN)"
 collection: publications
 permalink: files/KDD2022_Landslide.pdf
-excerpt: 'Understanding'
 date: 2023-08-05
 venue: 'CIKM 2024. First Author'
 ---
