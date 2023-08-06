@@ -1,5 +1,6 @@
 ---
-title: "Uncertainty Quantification in the Road-level Traffic Risk Prediction by Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural Network(STZINB-GNN)"
+title: "Uncertainty Quantification via Spatial-Temporal Tweedie Model for  Zero-inflated and Long-tail Travel Demand Prediction"
+Graph Neural Network(STZINB-GNN)"
 collection: publications
 permalink: files/KDD2022_Landslide.pdf
 excerpt: 'Urban road-based risk prediction is a crucial yet challenging aspect of research in transportation safety. While most existing studies emphasize accurate prediction, they often overlook the importance of model uncertainty. In this paper, we introduce a novel Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural Network (STZINB-GNN) for road-level traffic risk prediction, with a focus on uncertainty quantification. Our case study, conducted in the Lambeth borough of London, UK, demonstrates the superior performance of our approach in comparison to existing methods. Although the negative binomial distribution may not be the most suitable choice for handling real, non-binary risk levels, our work lays a solid foundation for future research exploring alternative distribution models or techniques. Ultimately, the STZINB-GNN contributes to enhanced transportation safety and data-driven decision-making in urban planning by providing a more accurate and reliable framework for road-level traffic risk prediction and uncertainty quantification. '
@@ -7,8 +8,6 @@ date: 2023-08-05
 venue: 'CIKM 2024. First Author'
 ---
 This paper is about the number 1. The number 2 is left for future work.
-
-
 
 
 
