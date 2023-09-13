@@ -11,7 +11,7 @@ redirect_from:
 
 Education Background
 ======
-* B.S. in Software Engineering, University of Electronic Science and technology of China, 2019 - 2023
+* B.S. in Software Engineering, University of Electronic Science and Technology of China, 2019 - 2023
   * Total GPA: 3.98/4.0
   * Rank: 1
   * Average Score: 92.10
