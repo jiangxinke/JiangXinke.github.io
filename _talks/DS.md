@@ -13,3 +13,5 @@ The increasing complexity of traffic situations, coupled with the rapid growth o
 With this motivation, we introduce DriveScenify, an approach that aims to boost driving scene understanding by leveraging advanced vision-language models. Our research focuses on developing a tailored version of MiniGPT-4, called DSify, which is specifically designed to process and generate contextually relevant responses based on driving scene videos. DriveScenify's integration of advanced vision-language models into the realm of transportation aims to unlock new possibilities for improving urban mobility, reducing traffic-related accidents, and enhancing the overall driving experience.
 
 Furthermore, our unique combination among various encoders enables DSify to provide accurate and context-aware insights, which can be applied to various transportation applications, especially for traffic management, and road safety analysis.
+
+Repo is available here: "https://github.com/pixeli99/DSify".
