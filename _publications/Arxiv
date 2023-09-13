@@ -1,10 +1,9 @@
 ---
-title: "Uncertainty Quantification via Spatial-Temporal Tweedie Model for  Zero-inflated and Long-tail Travel Demand Prediction"
+title: "Spatiotemporal Graph Neural Networks with Uncertainty Quantification for Traffic Incident Risk Prediction"
 collection: publications
 permalink: files/KDD2022_Landslide.pdf
-date: 2023-08-05
+date: 2023-08-15
 
-venue: 'CIKM 2024. First Author'
+venue: 'Preprint. Second Author'
 ---
-'Origin-Destination travel demand is crucial for transportation management. However, traditional spatial-temporal deep learning models grapple with addressing the sparse and long-tail characteristics in high-resolution O-D matrices and quantifying prediction uncertainty.  To address these challenges, we propose a novel approach, the Spatial-Temporal Tweedie Graph Neural Network (STTD). The STTD introduces the Tweedie distribution as a compelling alternative to the traditional zero-inflated model and leverages spatial and temporal embeddings to parameterize travel demand distributions. Our evaluations using real-world datasets highlight STTD's superiority in providing accurate predictions and precise confidence intervals, particularly in high-resolution scenarios. Anonymous GitHub code is available online. '
-
+'Predicting traffic incident risks at granular spatiotemporal levels is challenging. The datasets predominantly feature zero values, indicating no incidents, with sporadic high-risk values for severe incidents. Notably, a majority of current models, especially deep learning methods, focus solely on estimating risk values, overlooking the uncertainties arising from the inherently unpredictable nature of incidents. To tackle this challenge, we introduce the Spatiotemporal Zero-Inflated Tweedie Graph Neural Networks (STZITD-GNNs). Our model merges the reliability of traditional statistical models with the flexibility of graph neural networks, aiming to precisely quantify uncertainties associated with road-level traffic incident risks. This model strategically employs a compound model from the Tweedie family, as a Poisson distribution to model risk frequency and a Gamma distribution to account for incident severity. Furthermore, a zero-inflated component helps to identify the non-incident risk scenarios. As a result, the STZITD-GNNs effectively capture the dataset's skewed distribution, placing emphasis on infrequent but impactful severe incidents. Empirical tests using real-world traffic data from London, UK, demonstrate that our model excels beyond current benchmarks. The forte of STZITD-GNN resides not only in its accuracy but also in its adeptness at curtailing uncertainties, delivering robust predictions over short (7 days) and extended (14 days) timeframes.'
