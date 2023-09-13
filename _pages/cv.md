@@ -20,24 +20,24 @@ Education Background
 
 Academic Collaborations
 ======
-* 2022.11 - 2023.03: Research on Cross-Level Graph Contrastive Learning
+* 2022.03 - 2022.07: Research on Cross-Level Graph Contrastive Learning
   * Institute: University College London & London School of Economics and Political Science
   * Research content: Urban anomly computing on Spatial-Temporal Graph Mining, Cross-Level Graph Contrastive Learning, and Heterogeneous Graph Learning.
   * Collaboration supervisor: Dr. James Haworth (UCL), Dr. Huanfa Chen (UCL), Dr. Jonathan Cardoso-Silva (LSE) 
   
-* 2022.03 - 2022.10: Research on Attribute-Missing Graph Completion
+* 2022.01 - 2022.03: Research on Attribute-Missing Graph Completion
   * Institute of Computing Technology, Chinese Academy of Sciences
   * Research content: Complete Attribute-Missing Graph, Decoupled Variational Auto-Encoder, Node Classification Task.
   * Collaboration supervisor: Professor Ao Xiang
   
 Research experience
 ======
-* 2021.08 - 2022.02: Research on Self-paced Graph Contrastive Learning
+* 2021.07 - 2022.01: Research on Self-paced Graph Contrastive Learning
   * School of Information and Software Engineering, University of Electronic Science and Technology of China
   * Research content: Spatial-Temporal Graph Mining, Self-paced Graph Contrastive Learning, Mutual Information.
   * Supervisor: Professor Fan Zhou
 
-* 2021.04 - 2021.08: Research on Stock Price Effect based on Political Visit
+* 2021.04 - 2021.07: Research on Stock Price Effect based on Political Visit
   * School of Economics and Management, University of Electronic Science and Technology of China
   * Research content: Long Short Term Memory Network, Capital Asset Pricing Model, BSM Model.
   * Supervisor: Professor Hongjiang Zhao
@@ -63,10 +63,12 @@ Skills
 
 Prizes
 ======
-* 2022 Big Bata Accounting Competition (TOP 5%, second prize)
 * Outstanding Graduates of Sichuan Province, China
 * Outstanding Graduates of University of Electronic Science and Technology of China
+* 2023 China Collegiate Computing Contest - Outstanding Winner (TOP 1)
+* 2022 Big Bata Accounting Competition (TOP 5%, second prize)
 * 2022/2021 National Scholarship, China
+* 2022 Huawei Scholarship
 * 2022 Scholarship of Chinese Modern and Contemporary Scientists, China
 * 2021 China Computer Design Competition Artificial Intelligence Track (National Second Prize)
 * 2021 Service Innovation and Entrepreneurship Competition (National Third Prize), China
