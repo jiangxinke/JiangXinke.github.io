@@ -82,6 +82,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+# Patents and Software Copyright
+======
+* A Method for Removing Redundant Persons in Images Based on Machine Learning (Patent No. CN113724153A)
+* A Fast Image Composition Method Based on Convolutional Neural Networks (Patent No. CN113724261A)
+* A Deep Fake Source Tracing System under Big Data Federated Learning Architecture (Patent Number: CN113723220B)
+* A Method for Color Transfer Based on Semantic Segmentation and Cluster Blocks (Patent No.CN116363233A）
+* Smart Scissors - a secondary composition software based on the deep network knowledge transfer framework（Copyright No.2021SR1287477）
+* Scissorhands – an intelligent image-cropping software based on machine vision (Copyright No.2021SR0566764)
+* GNN4Route - an anti-fraud system based on the IP positioning algorithm and LLM security detection model (Copyright No.2023R11L1764096)
 
 Talks
 ======
