@@ -82,7 +82,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Patents and Software Copyright
+Patents and Software Copyrights
 ======
 * A Method for Removing Redundant Persons in Images Based on Machine Learning (Patent No. CN113724153A)
 * A Fast Image Composition Method Based on Convolutional Neural Networks (Patent No. CN113724261A)
